@@ -29,6 +29,7 @@ LICENSE="BSD
 	cover? ( ZLIB )
 	converter? ( GPL-2 )
 	curl? ( curl ZLIB )
+	elibc_musl? ( sys-libs/queue-standalone )
 	dts? ( GPL-2 )
 	dumb? ( DUMB-0.9.3 ZLIB )
 	equalizer? ( GPL-2 )
